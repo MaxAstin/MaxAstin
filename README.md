@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Valentin Podkopaev 
+  <img src="https://www.pngplay.com/wp-content/uploads/9/Android-Transparent-Free-PNG.png" width="32"/>
+</h1>
 
-<!--
-**MaxAstin/MaxAstin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🏎 I'm an `Android Developer` at FxPro
+- 🍕 I'm also developing my own `Food Delivery` project
+- 👨‍🏫 I'm mentoring and conducting `mock interviews`
+- 👨‍💻 I'm using `Kotlin` as primary language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
