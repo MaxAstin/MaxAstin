@@ -35,4 +35,14 @@
 #### Frameworks 
  - <a href="https://developer.android.com/">Android <img style="margin: 10px" src="https://www.pngplay.com/wp-content/uploads/9/Android-Transparent-Free-PNG.png" alt="Android" height="12" /></a>
  - <a href="https://developer.android.com/jetpack/compose">Jetpack Compose <img style="margin: 10px" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Compose" height="16" /></a>
- - <a href="https://github.com/ktorio/ktor">Ktor <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4" alt="Ktor" height="12" /></a>   
+ - <a href="https://github.com/ktorio/ktor">Ktor <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4" alt="Ktor" height="12" /></a> 
+
+#### Tools
+- <a href="https://git-scm.com/">Git <img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="12" /></a>
+- <a href="https://github.com/">Github <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="14" /></a>
+- <a href="https://about.gitlab.com/">Gitlab <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" alt="Gitlab" height="12" /></a>
+- <a href="https://firebase.google.com/">Firebase <img style="margin: 10px" src="https://img.icons8.com/color/512/firebase.png" alt="Firebase" height="14" /></a>
+- <a href="https://www.figma.com">Figma <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" height="12" /></a>
+- <a href="https://www.atlassian.com/software/jira">Jira <img style="margin: 10px" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" height="12" /></a>
+- <a href="https://swagger.io/">Swagger <img style="margin: 10px" src="https://lh3.googleusercontent.com/IJQW2ONM_ohY1KZAZ4Q-C7wKnGa3Ax9-gLxgm08lmEMlSl_fnfHDW9jFqVnZv4QNXE5icrh86V0Y8KEdvcAIcFnj45NbNokvLg4z4FKshA" alt="Swagger" height="12" /></a>
+- <a href="https://www.postman.com/">Postman <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="12" /></a>
