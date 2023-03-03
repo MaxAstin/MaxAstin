@@ -10,7 +10,7 @@
 
 - 🏎 &nbsp;I'm an `Android Developer` at FxPro
 - 🍕 &nbsp;I'm developing my own `Food Delivery` project
-- 👨‍🏫 &nbsp;I'm mentoring and conducting `mock interviews`
+- 👨‍🏫 &nbsp;I'm mentoring and conducting mock interviews
 - 👨‍💻 &nbsp;I'm using `Kotlin` as primary language
 
 <br>
