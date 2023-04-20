@@ -9,7 +9,7 @@
 <br>
 
 - 🏎 &nbsp;I'm an `Android Developer` at [FxPro](https://www.fxpro.com/) 
-- 🍕 &nbsp;I'm developing my own `Food Delivery` project
+- 🍕 &nbsp;I'm working on my own Food Delivery [project](https://github.com/xidealo/PapaKarlo)
 - 👨‍🏫 &nbsp;I'm [mentoring](https://getmentor.dev/mentor/valentin-podkopaev-1744) and conducting mock interviews
 - 👨‍💻 &nbsp;I'm using `Kotlin` as primary language
 
@@ -48,5 +48,5 @@
 - <a href="https://firebase.google.com/">Firebase <img style="margin: 10px" src="https://img.icons8.com/color/512/firebase.png" alt="Firebase" height="14" /></a>
 - <a href="https://www.figma.com">Figma <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" height="12" /></a>
 - <a href="https://www.atlassian.com/software/jira">Jira <img style="margin: 10px" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" height="12" /></a>
-- <a href="https://swagger.io/">Swagger <img style="margin: 10px" src="https://lh3.googleusercontent.com/IJQW2ONM_ohY1KZAZ4Q-C7wKnGa3Ax9-gLxgm08lmEMlSl_fnfHDW9jFqVnZv4QNXE5icrh86V0Y8KEdvcAIcFnj45NbNokvLg4z4FKshA" alt="Swagger" height="12" /></a>
+- <a href="https://swagger.io/">Swagger <img style="margin: 10px" src="https://docs.oracle.com/cloud/apiary/images/swagger-logo.png" alt="Swagger" height="12" /></a>
 - <a href="https://www.postman.com/">Postman <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="12" /></a>
