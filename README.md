@@ -48,5 +48,5 @@
 - <a href="https://firebase.google.com/">Firebase <img style="margin: 10px" src="https://img.icons8.com/color/512/firebase.png" alt="Firebase" height="14" /></a>
 - <a href="https://www.figma.com">Figma <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" height="12" /></a>
 - <a href="https://www.atlassian.com/software/jira">Jira <img style="margin: 10px" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" height="12" /></a>
-- <a href="https://swagger.io/">Swagger <img style="margin: 10px" src="https://docs.oracle.com/cloud/apiary/images/swagger-logo.png" alt="Swagger" height="12" /></a>
-- <a href="https://www.postman.com/">Postman <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="12" /></a>
+- <a href="https://swagger.io/">Swagger <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" height="14" /></a>
+- <a href="https://www.postman.com/">Postman <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="Postman" height="14" /></a>
