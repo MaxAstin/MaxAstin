@@ -43,10 +43,10 @@
 
 #### Tools
 - <a href="https://git-scm.com/">Git <img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="12" /></a>
-- <a href="https://github.com/">Github <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="14" /></a>
+- <a href="https://github.com/">Github <img style="margin: 10px" src="https://github.githubassets.com/pinned-octocat.svg" alt="Github" height="14"/></a>
 - <a href="https://about.gitlab.com/">Gitlab <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" alt="Gitlab" height="12" /></a>
 - <a href="https://firebase.google.com/">Firebase <img style="margin: 10px" src="https://img.icons8.com/color/512/firebase.png" alt="Firebase" height="14" /></a>
 - <a href="https://www.figma.com">Figma <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" height="12" /></a>
 - <a href="https://www.atlassian.com/software/jira">Jira <img style="margin: 10px" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" height="12" /></a>
 - <a href="https://swagger.io/">Swagger <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" height="14" /></a>
-- <a href="https://www.postman.com/">Postman <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="Postman" height="14" /></a>
+- <a href="https://www.postman.com/">Postman <img style="margin: 10px" src="https://www.postman.com/_ar-assets/images/favicon-1-16.png" alt="Postman" height="12" /></a>
