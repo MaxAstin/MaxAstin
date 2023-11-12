@@ -26,9 +26,13 @@
 </a>
 
 <br>
-<br>
 
+#### GitHub
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MaxAstin&show_icons=true&theme=tokyonight&count_private=true)
+
+#### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/max_astin?theme=dark&font=Baloo%202&ext=activity)
+
 
 #### Languages 
  - <a href="https://kotlinlang.org/">Kotlin  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" height="12" /></a>  
