@@ -1,7 +1,4 @@
 
- <img src="https://media.licdn.com/dms/image/C4D16AQGIIJNYCZWUNQ/profile-displaybackgroundimage-shrink_200_800/0/1652267731953?e=2147483647&v=beta&t=hoiJQsW_F3IhkDC9HE5r2c3_GGsL2ebt5896h5cMwg8" width="100%"/>
-
-
 <h1 align="center">Hello, I'm Valentin Podkopaev 
   <img src="https://www.pngplay.com/wp-content/uploads/9/Android-Transparent-Free-PNG.png" width="32"/>
 </h1>
